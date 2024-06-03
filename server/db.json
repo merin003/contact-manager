@@ -1,0 +1,88 @@
+{
+    "contacts" :[
+        {
+            "id":"D6BNdWnHI",
+            "name":"Neha",
+            "company":"YouTube",
+            "email" : "neha@gmail.com",
+            "title" :"YouTube",
+            "mobile":"3343123451" ,
+            "photo":"https://png.pngtree.com/png-clipart/20191120/original/pngtree-outline-user-icon-png-image_5045523.jpg",
+            "groupId":"3"
+
+
+
+        },
+        
+        {
+            "id":"TVobxeKbI",
+            "name":"Noopa",
+            "company":"Friend",
+            "email" : "noopa@gmail.com",
+            "title" :"freelancer",
+            "mobile":"3349123451" ,
+            "photo":"https://upload.wikimedia.org/wikipedia/commons/9/99/Sample_User_Icon.png",
+            "groupId":"2"
+
+            
+
+
+        },
+        {
+            "id":"UyEDV5ds",
+            "name":"Sana",
+            "company":"Service",
+            "email" : "sana@gmail.com",
+            "title" :"Electrician",
+            "mobile":"9349123451" ,
+            "photo":"https://static.vecteezy.com/system/resources/thumbnails/008/442/086/small/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg",
+            "groupId":"4"
+
+            
+
+
+        },
+        {
+            "id":"UyEDVyvds",
+            "name":"Sreerag",
+            "company":"HCL Technology",
+            "email" : "sreerag@gmail.com",
+            "title" :"Designer",
+            "mobile":"9347123451" ,
+            "photo":"https://i.pinimg.com/474x/76/4d/59/764d59d32f61f0f91dec8c442ab052c5.jpg",
+            "groupId":"6"
+
+            
+
+
+        }
+
+    ],
+    "groups":[
+        {
+            "id":1,
+            "name":"Colleague"
+        },
+        {
+            "id":2,
+            "name":"Friend"
+        },
+        {
+            "id":3,
+            "name":"Family"
+        },
+        {
+            "id":4,
+            "name":"Service"
+        },
+        {
+            "id":5,
+            "name":"Community"
+        },
+        {
+            "id":6,
+            "name":"Social"
+        }
+
+    ]
+}
